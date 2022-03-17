@@ -16,6 +16,8 @@ group:
       - source: assets/
         dest: assets/
         deleteOrphaned: true
+      - source: resources/dictionary.txt
+        dest: resources/dictionary.txt
       - source: index.Rmd
         dest: index.Rmd
       - source: About.Rmd
