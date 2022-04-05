@@ -46,16 +46,16 @@ group:
         dest: code_of_conduct.md
   # Repositories to receive changes
     repos: |
-      datatrail-jhu/cds_intro
-      datatrail-jhu/cds_chromebookintro
-      datatrail-jhu/cds_googlecloud
-      datatrail-jhu/cds_fileorganization
-      datatrail-jhu/cds_githubbasics
-      datatrail-jhu/cds_R
-      datatrail-jhu/cds_datacleaning
-      datatrail-jhu/cds_dataviz
-      datatrail-jhu/cds_dataanalysis
-      datatrail-jhu/cds_dsjob
-      datatrail-jhu/cds_dataproducts
-      datatrail-jhu/cds_finalproject
+      datatrail-jhu/00_intro
+      datatrail-jhu/01_chromebookintro
+      datatrail-jhu/02_googlecloud
+      datatrail-jhu/03_fileorganization
+      datatrail-jhu/04_githubbasics
+      datatrail-jhu/05_R
+      datatrail-jhu/06_datacleaning
+      datatrail-jhu/07_dataviz
+      datatrail-jhu/08_dataanalysis
+      datatrail-jhu/09_dsjob
+      datatrail-jhu/10_dataproducts
+      datatrail-jhu/11_finalproject
 ###ADD NEW REPO HERE following the format above#
