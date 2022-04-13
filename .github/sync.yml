@@ -54,8 +54,7 @@ group:
       datatrail-jhu/05_R
       datatrail-jhu/06_datacleaning
       datatrail-jhu/07_dataviz
-      datatrail-jhu/08_dataanalysis
-      datatrail-jhu/09_dsjob
-      datatrail-jhu/10_dataproducts
-      datatrail-jhu/11_finalproject
+      datatrail-jhu/08_data
+      datatrail-jhu/09_dataanalysis
+      datatrail-jhu/10_dsjob
 ###ADD NEW REPO HERE following the format above#
