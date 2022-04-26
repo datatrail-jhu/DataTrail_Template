@@ -42,8 +42,6 @@ group:
         dest: scripts/spell-check.R
       - source: scripts/git_repo_check.R
         dest: scripts/git_repo_check.R
-      - source: code_of_conduct.md
-        dest: code_of_conduct.md
   # Repositories to receive changes
     repos: |
       datatrail-jhu/00_intro
@@ -57,4 +55,6 @@ group:
       datatrail-jhu/08_data
       datatrail-jhu/09_dataanalysis
       datatrail-jhu/10_dsjob
+      datatrail-jhu/11_dataproducts
+      datatrail-jhu/12_package
 ###ADD NEW REPO HERE following the format above#
