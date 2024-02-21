@@ -44,6 +44,5 @@ group:
       datatrail-jhu/08_data
       datatrail-jhu/09_dataanalysis
       datatrail-jhu/10_dsjob
-      datatrail-jhu/11_dataproducts
       datatrail-jhu/12_package
 ###ADD NEW REPO HERE following the format above#
